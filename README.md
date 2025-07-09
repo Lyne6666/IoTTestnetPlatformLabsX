@@ -1,2 +1,1 @@
-# IoTTestnetPlatformLabsX
-Advanced IoTTestnetPlatformLabsX project
+.
